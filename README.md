@@ -1,1 +1,1 @@
-Simple script to keep packages and snaps updated in Ubuntu. 
+ubuntu-maintenance is a simple Bash script for automating routine Ubuntu system maintenance, bundling common tasks like updating package lists, upgrading installed packages, cleaning up unused dependencies, and keeping the system tidy with minimal manual intervention.
